@@ -26,7 +26,6 @@ python train.py \
   --num_classes 2 \
   --cl_weight 0.1 \
   --device 3 \
-  --save_dir_flag cw_${CW}_lr_${LR}_wd_${WD} \
   --exist_ok \
   --save_model
 ```

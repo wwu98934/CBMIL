@@ -1,6 +1,6 @@
-# Clustering-based Multi-instance Learning Network for Whole Slide Image Classification with Multi-task Learning
+# Clustering-based Multi-instance Learning Network for Whole Slide Image Classification
 
-This repo is the PyTorch implementation for the CBMIL described in the paper "Clustering-based Multi-instance Learning Network for Whole Slide Image Classification with Multi-task Learning".
+This repo is the PyTorch implementation for the CBMIL described in the paper "Clustering-based Multi-instance Learning Network for Whole Slide Image Classification".
 
 ![pipline](figs/pipeline.png)
 

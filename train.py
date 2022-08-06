@@ -47,7 +47,8 @@ def get_datasets(args):
         indices=indices['train'],
         shuffle=True,
         patch_random=False,
-        preload=args.preload
+        preload=args.preload,
+        subset=True
     )
     valid_set = ClusterFeaturesList(
         args.data_csv,
